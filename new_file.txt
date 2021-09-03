@@ -35,5 +35,5 @@ password: token generated
 how to geneate a token?
 Repository -> settings  ->  developer setting  ->  personal access token  ->  generate new token  ->  note -> select all scopes -> generate token
 
-pull :
+
 
