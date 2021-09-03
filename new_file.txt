@@ -1,2 +1,39 @@
-i am varshini
-ges
+i am himavarshini
+emp id : 4773
+preparing example of git commands
+
+==============================================================================================================================================
+
+cd PycharmProjects/
+mkdir new_one
+cd new_one/
+touch new_file.txt
+cd new_file.txt
+vim new_file.txt
+
+git init
+Initialized empty Git repository in /home/himavarshini/PycharmProjects/new_one/.git/
+
+ls -la
+list all .git
+
+status :
+git status
+
+git add new_file.txt
+
+commit :
+git commit -m "first commit"
+
+push :
+git remote add origin https://github.com/varshini1999713/example_repository.git   (repository link)
+
+git push origin master -f
+username:
+password: token generated
+
+how to geneate a token?
+Repository -> settings  ->  developer setting  ->  personal access token  ->  generate new token  ->  note -> select all scopes -> generate token
+
+pull :
+
